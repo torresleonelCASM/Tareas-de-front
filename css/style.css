@@ -1,0 +1,16 @@
+body { background-color: green; }
+
+.red {color: red;}
+
+.tittle {background-color: yellow; color: red;text-align: center;}
+
+.yellow {color: yellow;}
+
+.blue {color: blue;}
+
+.transparent {color: rgb(150, 150, 150);}
+
+.redes {
+    width: 250px;
+    height: 250px;
+}
