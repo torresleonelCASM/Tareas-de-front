@@ -52,10 +52,11 @@ section {
 header {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     background-color: yellow;
 }
 .logo {
-    width: 100px;
+    width: 10%;
 }
 .redesh {
     width: 50px;
@@ -67,6 +68,7 @@ nav {
 footer {
     display: flex;
     justify-content: space-between;
+    align-items: center;
     background-color: red;
 }
 .map {
