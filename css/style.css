@@ -45,6 +45,7 @@ section {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    flex-wrap: wrap;
 }
 .iframe {
     width: 50%;
@@ -53,6 +54,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    flex-wrap: wrap;
     background-color: yellow;
 }
 .logo {
@@ -69,6 +71,7 @@ footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    flex-wrap: wrap;
     background-color: red;
 }
 .map {
